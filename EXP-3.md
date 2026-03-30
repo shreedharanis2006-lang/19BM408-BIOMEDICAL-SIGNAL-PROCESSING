@@ -49,8 +49,10 @@ Key Features of DIT-FFT :
 7)Stop the program
 
 # MATLAB CODE:
+<img width="976" height="1600" alt="image" src="https://github.com/user-attachments/assets/28be1a49-c407-4a7c-aafb-42931e849978" />
 
 # OUTPUT GRAPH :
+<img width="881" height="1438" alt="image" src="https://github.com/user-attachments/assets/0d8fb03e-652f-4ef6-b78a-31b5ee1d13ae" />
 
 # RESULT:
 Thus, the Fast Fourier Transform of the given discrete-time signal was successfully computed using the Radix-2 Decimation-in-Time (DIT) FFT algorithm in MATLAB.
